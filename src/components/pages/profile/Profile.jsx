@@ -172,7 +172,7 @@ function Profile() {
 								Developing ,maintaining and troubleshooting the user interfaces.
 							</li>
 							<li>
-								Monitoring and improving front-end performance.
+								Monitoring and improving front-end performance
 							</li>
 
 						</ul>
