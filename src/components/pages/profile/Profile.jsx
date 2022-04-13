@@ -1,7 +1,7 @@
 import React from "react";
 
 //-----> Modules
-import { Grid, Typography } from "@material-ui/core";
+import { Grid} from "@material-ui/core";
 
 //-----> Image's & Icon's
 // import Vamsi1 from "./images/vamsi1.jpeg";
